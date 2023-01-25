@@ -1,6 +1,7 @@
 <a href="https://zeitgeist.pm">
   <img src="./GH-banner.jpg">
 </a>
+This is forked repo.
 
 # Zeitgeist: An Evolving Blockchain for Prediction Markets and Futarchy
 
