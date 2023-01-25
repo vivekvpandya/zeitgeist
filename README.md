@@ -2,6 +2,7 @@
   <img src="./GH-banner.jpg">
 </a>
 This is forked repo.
+A small change for test.
 
 # Zeitgeist: An Evolving Blockchain for Prediction Markets and Futarchy
 
